@@ -1,0 +1,12 @@
+pages/
+AmosNetWeights.npy
+*.pyc
+runs/
+final_run
+slurm*
+accuracy*
+loss*
+todo
+negative/
+positive/
+annotation_files/data_stats_generic_case
